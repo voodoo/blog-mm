@@ -23,9 +23,6 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
-activate :relative_assets
-#set :relative_links, true
-
 activate :deploy do |deploy|
   deploy.method = :git
   # Optional Settings
@@ -150,7 +147,7 @@ configure :build do
   # activate :asset_hash
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
