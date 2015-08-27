@@ -23,6 +23,19 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :relative_assets
+#set :relative_links, true
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  # Optional Settings
+  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
+  # deploy.branch   = 'custom-branch' # default: gh-pages
+  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
+  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
+end
+
+
 set :casper, {
   blog: {
     url: 'http://blog.vudmaska.com',
@@ -99,7 +112,7 @@ end
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-activate :livereload
+# activate :livereload
 
 # Pretty URLs - http://middlemanapp.com/basics/pretty-urls/
 activate :directory_indexes
@@ -143,11 +156,4 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
-activate :deploy do |deploy|
-  deploy.deploy_method = :git
-  # Optional Settings
-  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
-  # deploy.branch   = 'custom-branch' # default: gh-pages
-  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
-end
+
