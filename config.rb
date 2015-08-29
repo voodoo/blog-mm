@@ -147,11 +147,11 @@ configure :build do
   # activate :asset_hash
 
   # Use relative URLs
-  activate :relative_assets
-  set :relative_links, true
+  #activate :relative_assets
+  #set :relative_links, true
 
   # Or use a different image path
-  # set :http_prefix, "/blog-mm"
+  set :http_prefix, "/blog-mm"
 end
 
 
