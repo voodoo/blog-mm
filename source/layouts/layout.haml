@@ -20,7 +20,7 @@
 
       %footer.site-footer.clearfix
         %section.copyright
-          %a{href: home_path}= blog_settings.name
+          =link_to blog_settings.name, home_path
           &copy;
           = Time.now.year
         %section.poweredby
