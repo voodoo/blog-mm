@@ -4,7 +4,7 @@
     %span.hidden Close
   - tag_navigation = {}
   - blog.tags.each do |tag, articles|
-    - tag_navigation[tag.capitalize] = "/tag/#{tag.downcase}"
+    - tag_navigation[tag.capitalize] = "/tag/#{tag.downcase}.html"
   - navigation.merge!(tag_navigation.to_h)
   %ul
     - navigation.try(:each) do |label, href|

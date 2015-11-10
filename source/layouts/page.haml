@@ -2,7 +2,7 @@
   %header.main-header.post-head{cover}
     %nav.main-nav.clearfix{class: cover? ? 'overlay' : nil}
       - if blog_settings.logo.present?
-        %a.blog-logo{href: home_path}
+        = link_to "/index.html", class: 'blog-logo' do
           = image_tag blog_settings.logo, alt: blog_settings.name
       - if blog_settings.navigation
         %a.menu-button.icon-menu{href: '#'}
