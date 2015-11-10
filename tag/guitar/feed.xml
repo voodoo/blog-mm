@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>voodoo: guitar</title>
+  <subtitle>Posts tagged with guitar</subtitle>
+  <id>http://blog.vudmaska.com</id>
+  <link href="http://blog.vudmaska.com"/>
+  <link href="http://blog.vudmaska.com/tag/guitar/feed.xml" rel="self"/>
+  <updated>2015-08-20T19:00:00-05:00</updated>
+  <author>
+    <name>Paul Vudmaska</name>
+  </author>
+  <entry>
+    <title>Guitar stuff</title>
+    <link rel="alternate" href="http://blog.vudmaska.com/2015/08/20/guitar-stuff/"/>
+    <id>http://blog.vudmaska.com/2015/08/20/guitar-stuff/</id>
+    <published>2015-08-19T19:00:00-05:00</published>
+    <updated>2015-11-10T11:42:46-06:00</updated>
+    <author>
+      <name>Paul Vudmaska</name>
+    </author>
+    <summary type="html">I quit my job and decided to become a Rock Star.
+
+So I needed a guitar. Then I needed to learn it.
+
+Ok, so my Rock Star carreer never really took off and it did not happen exactly like that but designing and learning about guitars has been real fun, even</summary>
+  </entry>
+</feed>

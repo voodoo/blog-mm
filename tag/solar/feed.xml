@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>voodoo: solar</title>
+  <subtitle>Posts tagged with solar</subtitle>
+  <id>http://blog.vudmaska.com</id>
+  <link href="http://blog.vudmaska.com"/>
+  <link href="http://blog.vudmaska.com/tag/solar/feed.xml" rel="self"/>
+  <updated>2015-08-20T19:00:00-05:00</updated>
+  <author>
+    <name>Paul Vudmaska</name>
+  </author>
+  <entry>
+    <title>Dive into Solar</title>
+    <link rel="alternate" href="http://blog.vudmaska.com/2015/08/21/dive-into-solar/"/>
+    <id>http://blog.vudmaska.com/2015/08/21/dive-into-solar/</id>
+    <published>2015-08-20T19:00:00-05:00</published>
+    <updated>2015-11-10T11:39:27-06:00</updated>
+    <author>
+      <name>Paul Vudmaska</name>
+    </author>
+    <summary type="html">Solar power is going to save the world!
+
+No, no, no it is not. Not for some time. But it sure is fun and has been a great learning experience about electricity.
+</summary>
+  </entry>
+</feed>

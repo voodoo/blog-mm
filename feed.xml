@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>voodoo</title>
+  <subtitle>black magic</subtitle>
+  <id>http://blog.vudmaska.com</id>
+  <link href="http://blog.vudmaska.com"/>
+  <link href="http://blog.vudmaska.com/feed.xml" rel="self"/>
+  <updated>2015-08-20T19:00:00-05:00</updated>
+  <author>
+    <name>Paul Vudmaska</name>
+  </author>
+  <entry>
+    <title>Dive into Solar</title>
+    <link rel="alternate" href="http://blog.vudmaska.com/2015/08/21/dive-into-solar/"/>
+    <id>http://blog.vudmaska.com/2015/08/21/dive-into-solar/</id>
+    <published>2015-08-20T19:00:00-05:00</published>
+    <updated>2015-11-10T11:39:27-06:00</updated>
+    <author>
+      <name>Paul Vudmaska</name>
+    </author>
+    <summary type="html">Solar power is going to save the world!
+
+No, no, no it is not. Not for some time. But it sure is fun and has been a great learning experience about electricity.
+</summary>
+  </entry>
+  <entry>
+    <title>Guitar stuff</title>
+    <link rel="alternate" href="http://blog.vudmaska.com/2015/08/20/guitar-stuff/"/>
+    <id>http://blog.vudmaska.com/2015/08/20/guitar-stuff/</id>
+    <published>2015-08-19T19:00:00-05:00</published>
+    <updated>2015-11-10T11:42:46-06:00</updated>
+    <author>
+      <name>Paul Vudmaska</name>
+    </author>
+    <summary type="html">I quit my job and decided to become a Rock Star.
+
+So I needed a guitar. Then I needed to learn it.
+
+Ok, so my Rock Star carreer never really took off and it did not happen exactly like that but designing and learning about guitars has been real fun, even</summary>
+  </entry>
+  <entry>
+    <title>Welcome</title>
+    <link rel="alternate" href="http://blog.vudmaska.com/2014/06/14/welcome/"/>
+    <id>http://blog.vudmaska.com/2014/06/14/welcome/</id>
+    <published>2014-06-13T19:00:00-05:00</published>
+    <updated>2015-11-10T11:39:27-06:00</updated>
+    <author>
+      <name>Paul Vudmaska</name>
+    </author>
+    <summary type="html">I am Voodoo
+
+No, really, on github that is my handle. Find me there!
+
+What will you find here? Just stuff enjoy - programming, guitars, technology, solar. Mostly this is just for my own memory.
+
+What were you saying?
+
+ Wisdomous - it&amp;rsquo;s definitely a word.
+
+## Working with Code
+
+Got a streak of geek? We&amp;rsquo;ve got you covered there, too. You can write inline
+`` blocks really easily with back ticks. Want to show off something more
+comprehensive? 4 spaces of indentation gets you there.
+
+```
+awesome-thing {
+  display: block;
+  width: 100%;
+}
+```
+
+## Ready for a Break?
+
+Throw 3 or more dashes down on any new line and you've got yourself a fancy new
+divider. Aw yeah.
+
+---
+
+## Advanced Usage
+
+There's one fantastic secret about Markdown. If you want, you can write plain
+old HTML and it'll still work! Very flexible.
+
+
+
+That should be enough to get you started. Have fun - and let us know what you
+think :)
+ --&gt;
+�</summary>
+  </entry>
+</feed>
